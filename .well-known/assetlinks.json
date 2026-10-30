@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.igrejametodista225_ai.twa",
+        "sha256_cert_fingerprints": ["FB:9A:DD:53:5E:2B:D9:0A:7B:99:54:F0:22:C6:BB:7B:E2:64:91:CE:3E:55:6B:A1:EB:9F:72:D6:8C:85:05:80"]
+      }
+    }]
